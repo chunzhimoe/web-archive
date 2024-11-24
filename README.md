@@ -23,7 +23,7 @@ This approach has the following drawbacks:
 Web Archive is a completely free and zero-threshold solution, and Cloudflare can easily migrate the data back to the local host after self-hosting.
 
 ## Feat & Roadmap
-- [x] Folder classification
+- [x] Folder class#ification
 - [x] Page preview image
 - [x] Title keyword search
 - [x] Showcase, share the pages you captured
