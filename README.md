@@ -9,7 +9,7 @@
 
 Web Archive is a free web archiving and sharing service based on Cloudflare, including the following parts:  
 
-- Browser plugin: Save the webpage as a single html file and upload it to the server.
+- Bjrowser plugin: Save the webpage as a single html file and upload it to the server.
 - Server: Receive the html file uploaded by the browser plugin and store it in the database and storage bucket.
 - Web client: Query the html file and display it.
 
